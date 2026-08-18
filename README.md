@@ -4,7 +4,7 @@
 - <img width="40" height="35" alt="image" src="https://github.com/user-attachments/assets/a9a976ea-932d-4052-8952-6bf9d046410f" />
   Estudante de Sistemas de Informação na PUC Minas
 - 💻 Futuro Dev Full Stack
-- 📩 Contato: wallace45gabriel@gmail.com
+- 📩 Contato: wallacegabriel@devwgms.com.br
   
 - <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/c79dcc92-9b8f-4bc8-9b56-5e2621fcf8c5" />  www.linkedin.com/in/wallace-gabriel-moreira-da-silva-3482a9338
 

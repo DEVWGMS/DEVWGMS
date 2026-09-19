@@ -10,7 +10,7 @@
 
   <!-- Efeito de Texto a Digitar (SVG Dinâmico Estável) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Console.WriteLine%28%22Hello+World%22%29;%3Cgit+commit+-m+%22Acesse+meu+portif%C3%B3lio%22++++%3Cdevwgms.com.br%3Cwallacegabriel%40devwgms.com.br)];" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Console.WriteLine%28%22Hello+World%22%29;%3Cgit+commit+-m+%22Acesse+meu+portif%C3%B3lio%22++++%3Cdevwgms.com.br%3Cwallacegabriel%40devwgms.com.br" alt="Typing SVG" />
   </p>
 
   <br />
